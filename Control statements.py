@@ -1,5 +1,5 @@
 # control statements
-# control the flow or order in which  a program executes its instructions
+# control the flow of a program
 
 # while
 

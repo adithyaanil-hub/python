@@ -1,9 +1,7 @@
-# swapping
-# Exchanging values stored in variables
-
 # a = 18
 # a=7
 # print(a)
+
 
 #a = 5
 #b = 7

@@ -10,8 +10,8 @@
 # a = 'Mohan\'s resume'
 # print(a)
 
-# qt= "gandhi once said that \"say no to violence\" "
-# print(qt)
+# # qt= "gandhi once said that \"say no to violence\" "
+# # print(qt)
 
 # # qt = "gandhi once said that\n \"say no to violence\" "
 # # print(qt)
