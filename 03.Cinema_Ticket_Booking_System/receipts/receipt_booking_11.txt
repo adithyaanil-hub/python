@@ -1,0 +1,14 @@
+=============================================
+         CINEMA TICKET BOOKING RECEIPT
+=============================================
+ Booking ID       : #11
+ Customer Name    : adithya
+ Movie Title      : Interstellar
+ Show Date        : 2026-12-01
+ Show Time        : 02:00 PM
+ Tickets Booked   : 5
+ Total Paid       : $70.00
+ Booking Status   : Confirmed
+---------------------------------------------
+ Thank you for booking with us! Enjoy your movie!
+=============================================

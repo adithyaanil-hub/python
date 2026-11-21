@@ -1,0 +1,14 @@
+=============================================
+         CINEMA TICKET BOOKING RECEIPT
+=============================================
+ Booking ID       : #12
+ Customer Name    : adithya
+ Movie Title      : Inception
+ Show Date        : 2026-12-01
+ Show Time        : 10:30 AM
+ Tickets Booked   : 6
+ Total Paid       : $75.00
+ Booking Status   : Confirmed
+---------------------------------------------
+ Thank you for booking with us! Enjoy your movie!
+=============================================

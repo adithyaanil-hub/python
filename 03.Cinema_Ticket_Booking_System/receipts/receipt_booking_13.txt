@@ -1,0 +1,14 @@
+=============================================
+         CINEMA TICKET BOOKING RECEIPT
+=============================================
+ Booking ID       : #13
+ Customer Name    : adithya anil
+ Movie Title      : Spirited Away
+ Show Date        : 2026-12-02
+ Show Time        : 04:00 PM
+ Tickets Booked   : 5
+ Total Paid       : $55.00
+ Booking Status   : Confirmed
+---------------------------------------------
+ Thank you for booking with us! Enjoy your movie!
+=============================================
